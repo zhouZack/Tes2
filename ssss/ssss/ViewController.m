@@ -20,6 +20,7 @@
     NSString *str;
     str=@"asdsa";
     str = @"aaaa";
+    str = @"asa11";
 }
 
 - (void)didReceiveMemoryWarning {
