@@ -21,6 +21,8 @@
     str=@"asdsa";
     str = @"aaaa";
     str = @"asa11";
+    str = @"";
+    
 }
 
 - (void)didReceiveMemoryWarning {
