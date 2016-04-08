@@ -22,6 +22,8 @@
     str = @"aaaa";
     str = @"asa11";
     str = @"";
+    str = @"asa11";
+    str = @"";
     
 }
 
